@@ -1,0 +1,9 @@
+body {
+    max-width: 500px;
+    margin: auto;
+    padding-top: 50px;
+}
+.head1 {
+    margin-left: 60px;
+    margin-bottom: 60px;
+}
