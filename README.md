@@ -16,7 +16,7 @@ Smart Attendance System using blockchain
 - Open a Terminal
 - Navigate to the root folder of the project.
 ```
-$ cd path/to/Blockendance
+$ cd path/to/Smartendance
 ```
 - Run the python app
 ```
