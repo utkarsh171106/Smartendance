@@ -10,6 +10,7 @@ Smart Attendance System using blockchain
 - HTML5
 - CSS3
 - Javascript
+- Blockchain
 
 #### Running the application
 - Open a Terminal
